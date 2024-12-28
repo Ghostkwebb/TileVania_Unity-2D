@@ -31,7 +31,7 @@ You can play a live demo of the game in your browser here:
 </p>
 
 <p align="center">
-<img width="1187" alt="Screenshot showing the enviroment of the game." src="https://github.com/user-attachments/assets/924be064-228a-4829-9040-448945dabb7d" width="400" height="225"/>
+<img alt="Screenshot showing the enviroment of the game." src="https://github.com/user-attachments/assets/924be064-228a-4829-9040-448945dabb7d" width="400" height="225"/>
 </p>
 
 ## Development Notes
