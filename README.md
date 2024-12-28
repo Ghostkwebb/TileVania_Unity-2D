@@ -45,12 +45,6 @@ You can play a live demo of the game in your browser here:
     *   Basic enemy behavior and simple combat.
     *   Level design with basic platforming challenges.
     *   A basic background level design.
-*   **Future Development Goals:**
-    *   Introduce more diverse enemy types with unique behaviors.
-    *   Expand the level design with more challenging obstacles and areas.
-    *   Implement a more complex combat system with abilities and combos.
-    *   Implement player feedback.
-    *   Potentially add a story.
 
 ## Contact
 
