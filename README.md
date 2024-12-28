@@ -6,7 +6,7 @@ This repository contains the source code for a 2D platformer game developed in U
 
 *   **Genre:** 2D Platformer / Metroidvania
 *   **Engine:** Unity
-*   **Art Style:** Non-Pixelated, with a focus on smooth visuals.
+*   **Art Style:** Non-pixelated, with a focus on smooth visuals.
 *   **Gameplay:** Explore interconnected levels, battle enemies, and acquire new abilities to unlock new areas.
 *   **Goal:** Complete the levels and advance through the story, which has a focus on exploration and combat.
 
@@ -37,7 +37,7 @@ You can play a live demo of the game in your browser here:
 ## Development Notes
 
 *   **Unity Version:** The project was developed using Unity version 2022.3.30f1.
-*   **Dependencies:** No external assets or plugins were used in development other than Unity's built in engine packages.
+*   **Dependencies:** No external assets or plugins were used in development other than Unity's built-in engine packages.
 *   **Current Features:**
     *   Basic player movement and jumping.
     *   Dash ability for quick navigation.
@@ -48,8 +48,6 @@ You can play a live demo of the game in your browser here:
 
 ## Contact
 
-Feel free to reach out with any questions or feedback:
-
-*   [Your Email or Contact Link Here, e.g., github@user.com]
+Feel free to reach out with any questions or feedback on the GitHub issues page.
 
 ---
