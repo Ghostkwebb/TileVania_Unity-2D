@@ -1,6 +1,6 @@
 # TileVania_Unity-2D
 
-This is my 4th game in learning game development on Unity. I'm still new to this so it might not be the best but make sure you have fun!
+This is my 3rd game in learning game development on Unity. I'm still new to this so it might not be the best but make sure you have fun!
 This repository contains the source code for a 2D platformer game developed in Unity, inspired by the classic "Metroidvania" genre—experience exploration, combat, and progression in a handcrafted world.
 
 ## Game Overview
